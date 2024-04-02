@@ -1,0 +1,14 @@
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\bin\Debug\net8.0\RazrPrl04.exe
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\bin\Debug\net8.0\RazrPrl04.deps.json
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\bin\Debug\net8.0\RazrPrl04.runtimeconfig.json
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\bin\Debug\net8.0\RazrPrl04.dll
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\bin\Debug\net8.0\RazrPrl04.pdb
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\obj\Debug\net8.0\RazrPrl04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\obj\Debug\net8.0\RazrPrl04.AssemblyInfoInputs.cache
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\obj\Debug\net8.0\RazrPrl04.AssemblyInfo.cs
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\obj\Debug\net8.0\RazrPrl04.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\obj\Debug\net8.0\RazrPrl04.dll
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\obj\Debug\net8.0\refint\RazrPrl04.dll
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\obj\Debug\net8.0\RazrPrl04.pdb
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\obj\Debug\net8.0\RazrPrl04.genruntimeconfig.cache
+C:\Users\Stanislav\Desktop\C#\Book\RazrPrl04\RazrPrl04\obj\Debug\net8.0\ref\RazrPrl04.dll
